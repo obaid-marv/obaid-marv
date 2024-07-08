@@ -1,11 +1,8 @@
 # Obaid Here! 👋
 
-![Profile views](https://gpvc.arturio.dev/obaid-marv)
-![Twitter Follow](https://img.shields.io/twitter/follow/your-twitter-handle?style=social)
-
 ## About Me
 
-Problem solver with expertise in MERN Stack and learning more every new day, Interest in DevOps, mat persue it in future.
+Problem solver with expertise in MERN Stack and learning more every new day, Interest in DevOps, may persue it in future.
 
 ## GitHub Stats
 
