@@ -17,8 +17,8 @@ Problem solver with expertise in MERN Stack and learning more every new day, Int
 
 ## Projects
 
-- [Project 1](https://github.com/obaid-marv/Musico): Description of project 1.
-- [Project 2](https://github.com/obaid-marv/BSAT): Description of project 2.
+- [Musico](https://github.com/obaid-marv/Musico): Mobile application made for streaming online music.
+- [BSAT](https://github.com/obaid-marv/BSAT): Landing Page for an SEO automation website developed using react and tailwind CSS.
 
 ## Connect with Me
 
