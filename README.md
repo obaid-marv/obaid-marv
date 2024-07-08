@@ -1,6 +1,6 @@
 # Obaid Here! 👋
 
-![Profile views](https://gpvc.arturio.dev/your-username)
+![Profile views](https://gpvc.arturio.dev/obaid-marv)
 ![Twitter Follow](https://img.shields.io/twitter/follow/your-twitter-handle?style=social)
 
 ## About Me
