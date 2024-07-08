@@ -5,20 +5,20 @@
 
 ## About Me
 
-I'm a [Your Field] professional passionate about [Your Interests].
+Problem solver with expertise in MERN Stack and learning more every new day, Interest in DevOps, mat persue it in future.
 
 ## GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=obaid-marv&show_icons=true&theme=radical)
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=obaid-marv&layout=compact&theme=radical)
 
 ## Projects
 
-- [Project 1](https://github.com/your-username/project1): Description of project 1.
-- [Project 2](https://github.com/your-username/project2): Description of project 2.
+- [Project 1](https://github.com/obaid-marv/Musico): Description of project 1.
+- [Project 2](https://github.com/obaid-marv/BSAT): Description of project 2.
 
 ## Connect with Me
 
