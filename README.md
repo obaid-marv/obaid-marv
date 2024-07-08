@@ -1,7 +1,6 @@
-# Hi there, I'm [Your Name] 👋
+# Obaid Here! 👋
 
 ![Profile views](https://gpvc.arturio.dev/your-username)
-![GitHub followers](https://img.shields.io/github/followers/your-username?label=Followers&style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/your-twitter-handle?style=social)
 
 ## About Me
