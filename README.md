@@ -23,6 +23,4 @@ Problem solver with expertise in **MERN Stack** and learning more every new day.
 
 ## Connect with Me
 
-* [LinkedIn](https://www.linkedin.com/in/your-linkedin)
-* [Twitter](https://twitter.com/your-twitter)
-* [Website](https://your-website.com)
+* [LinkedIn](https://www.linkedin.com/in/obaid-ur-rehman-8b4053249)
