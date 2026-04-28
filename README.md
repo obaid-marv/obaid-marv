@@ -2,7 +2,7 @@
 
 ## About Me
 
-Problem solver with expertise in **MERN Stack** and learning more every new day. Interested in **DevOps** and exploring its implementation in modern workflows.
+Problem solver with expertise in **MERN Stack, ElectronJs NextJs** and learning more every new day. Interested in **DevOps** and exploring its implementation in modern workflows.
 
 ## GitHub Stats
 
